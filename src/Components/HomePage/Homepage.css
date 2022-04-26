@@ -1,0 +1,95 @@
+
+
+
+  .homePage--innerDiv {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+    .homePage--innerDiv--sqere{
+      position: absolute;
+      
+      top: 8rem;
+      z-index: 0;
+    }
+    .homePage--innerDiv--lineimg1{
+      position: absolute;
+    
+      top: 23rem;
+      z-index: 0;
+    }
+    .homePage--innerDiv--lineimg2{
+      position: absolute;
+      right: 3rem;
+      top: 15;
+      z-index: 0;
+    }
+    .homePage--innerDiv--box {
+     
+      display: flex;
+
+        align-content: center;
+        align-items: center;}
+
+      .homePage--innerDiv--box--find {
+        background-color: rgb(254, 227, 205);
+        color: black;
+        text-align: center;
+        border-radius: 10px;
+        height:250px;
+        /* width: 60%;
+        height:80%;
+        padding: 1rem 5rem;
+        
+        margin: 3rem; */
+      }
+
+        .homePage--innerDiv--box--find--btn {
+          color: white;
+          background-color: orange;
+        }
+      
+      .homePage--innerDiv--box--secure {
+        background-color: rgb(205, 233, 254);
+        color: black;
+        text-align: center;
+        height:250px;
+        /* width: 60%;
+        padding: 1rem 2rem;*/
+        border-radius: 10px; 
+      }
+    
+    .homePage--innerDiv--header{
+      font-family: 'Roboto Slab Bold',serif;
+      font-size: 50px;
+      font-weight: 700;
+      text-align: center;
+     
+     
+
+     
+    }
+    .homePage--innerDiv--plain{
+      background-color: silver;
+    
+      border-radius: 20px;
+     
+    }
+    .homePage--innerDiv--reach{
+     
+     display: flex;
+     text-color:'white';
+   
+     line-height: 10px;
+     text-align: center;
+  }
+
+    .homePage--innerDiv--reach p{
+       color: rgba(255, 255, 255, 0.829);
+     }
+    
+  
+
